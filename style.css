@@ -380,6 +380,10 @@ select {
     font-weight: bold;
 }
 
+option {
+    color: black;
+}
+
 .inputtype:hover, .inputtype:focus {
     background-color: transparent;
 }
