@@ -47,7 +47,7 @@ for (let i = 0; i < SPNav.length; i++) {
 
 // -- -- -- -- -- -- -- -- [ IMAGE SLIDER: BUTTONS ] -- -- -- -- -- -- -- --
 
-const slider = document.getElementById("imgslider");
+const slider = document.getElementById("Home");
 const sliderforward = document.getElementById("slider-forward");
 const sliderbackward = document.getElementById("slider-backward");
 
