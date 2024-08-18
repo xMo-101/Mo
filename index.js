@@ -74,3 +74,7 @@ contactMessage.addEventListener("blur", function() {
         contactHeading.textContent = "{ Get In Touch }";
     }
 });
+
+/* COPYRIGHT */
+const year = new Date().getFullYear();
+document.getElementById("Copyright").textContent += ` ${year}`;
